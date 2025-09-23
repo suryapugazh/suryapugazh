@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @suryapugazh
-- 👀 I’m interested in Artificial Intelligence & Machine Learning
-- 🌱 I’m currently learning Python, MOJO, R
-- 💞️ I’m looking to collaborate on Python For Artificial Intelligence & Machine Learning
+- 👋 Hi, I’m Surya Pugazh @suryapugazh
+- Aspiring Software Developer | Backend | AI
 - 📫 `Love Calm Respect`
 
 <!---
