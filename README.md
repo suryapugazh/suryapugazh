@@ -1,32 +1,31 @@
-<h1 align="center">Hi 👋, I'm Surya Pugazh</h1>
+<h1 align="center">Hi 👋, I'm Pugazh</h1>
 <h3 align="center">A <u>Backend & Product-Focused Developer</u> from India 🇮🇳</h3>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 - Software developer interested in **solving real-world problems**
 - Strong focus on **backend development & debugging**
 - Enjoys understanding how systems work under the hood
-- Likes building practical tools instead of toy projects
+- Likes building practical tools
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🧩 BackX
+### 🧩 BackX
 - Node.js backend project scaffold
 - Helps developers avoid repetitive boilerplate
 - Clean structure with routes, controllers, services
 - Focused on developer experience and scalability
 
-#### 🏥 DocToYou
+### 🏥 DocToYou
 - HealthTech platform for home doctor visits
 - Appointment booking, doctor matching, teleconsultation
 - Backend architecture & API design contribution
 
 ---
 
-### 🤝 Connect with Me
 ## 🤝 Connect with Me
 
 <p align="left">
@@ -85,13 +84,13 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuryaPugazh&show_icons=true&theme=dark" />
 </p>
 
 
-### Most Used Languages
+## Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPugazh&layout=compact&theme=dark" />
 </p>
