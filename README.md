@@ -27,17 +27,34 @@
 ---
 
 ### 🤝 Connect with Me
+## 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <a href="[https://linkedin.com/in/suryapugazh](https://linkedin.com/in/suryapugazh)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  <a href="https://g.dev/suryeah" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
-  <a href="https://github.com/SuryaPugazh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+  <a href="[https://twitter.com/_surya_pugazh_](https://twitter.com/_surya_pugazh_)" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="[https://stackoverflow.com/users/suryapugazh](https://stackoverflow.com/users/31730753/surya-pugazh)" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="[https://www.kaggle.com/suryapugazh](https://www.kaggle.com/suryapugazh)" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="[https://instagram.com/isuryeah](https://www.instagram.com/isuryeah/)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="[https://github.com/suryapugazh](https://github.com/suryapugazh)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)]([https://your-portfolio-link.com](https://surya-pugazh.web.app/))
 
 ---
 
@@ -78,14 +95,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPugazh&layout=compact&theme=dark" />
 </p>
-
----
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPugazh&theme=dark" />
-</p>
-
-
 
 <!---
 suryapugazh/suryapugazh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
