@@ -14,15 +14,23 @@
 ## 🚀 Featured Projects
 
 ### 🧩 BackX
+[![npm](https://img.shields.io/badge/npm-BackX-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/backx)
+
+> Node.js backend project scaffold to kickstart real-world backend development.
 - Node.js backend project scaffold
 - Helps developers avoid repetitive boilerplate
 - Clean structure with routes, controllers, services
 - Focused on developer experience and scalability
+---
 
 ### 🏥 DocToYou
+[![GitHub](https://img.shields.io/badge/GitHub-DocToYou-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DocToYou/doctoyou)
+
+> HealthTech platform for home doctor visits and teleconsultation.
 - HealthTech platform for home doctor visits
 - Appointment booking, doctor matching, teleconsultation
 - Backend architecture & API design contribution
+
 
 ---
 
