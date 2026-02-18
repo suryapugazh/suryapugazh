@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pugazh</h1>
-<h3 align="center">A <u>Backend & Product-Focused Developer</u> from India 🇮🇳</h3>
+<h3 align="center">A <u>Aspiring AI & Backend Engineer</u> from India 🇮🇳</h3>
 
 ---
 
@@ -37,31 +37,31 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="[https://linkedin.com/in/suryapugazh](https://linkedin.com/in/suryapugazh)" target="_blank">
+  <a href="https://linkedin.com/in/suryapugazh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://g.dev/suryeah" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
-  <a href="[https://twitter.com/_surya_pugazh_](https://twitter.com/_surya_pugazh_)" target="_blank">
+  <a href="https://twitter.com/_surya_pugazh_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="[https://stackoverflow.com/users/suryapugazh](https://stackoverflow.com/users/31730753/surya-pugazh)" target="_blank">
+  <a href="https://stackoverflow.com/users/suryapugazh" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="[https://www.kaggle.com/suryapugazh](https://www.kaggle.com/suryapugazh)" target="_blank">
+  <a href="https://www.kaggle.com/suryapugazh" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="[https://instagram.com/isuryeah](https://www.instagram.com/isuryeah/)" target="_blank">
+  <a href="https://instagram.com/isuryeah" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="[https://github.com/suryapugazh](https://github.com/suryapugazh)" target="_blank">
+  <a href="https://github.com/suryapugazh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)]([https://your-portfolio-link.com](https://surya-pugazh.web.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://surya-pugazh.web.app/))
 
 ---
 
@@ -94,13 +94,13 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryaPugazh&show_icons=true&theme=dark" />
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=SuryaPugazh&theme=dark" />
 </p>
 
 
 ## Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPugazh&layout=compact&theme=dark" />
+  <img src="https://helio-github-stats.vercel.app/api/top-langs?username=SuryaPugazh&theme=dark" />
 </p>
 
 <!---
