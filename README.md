@@ -11,6 +11,22 @@
 
 ---
 
+### 🤖 Mockiew AI
+[![AI](https://img.shields.io/badge/AI-Mock%20Interview-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)](https://mockiew-ai.pages.dev)
+
+> AI-powered mock interview platform that delivers resume-driven questions and AI-based interview performance evaluation.
+
+- Built an end-to-end AI interview platform with resume parsing and adaptive questioning
+- Integrated LLMs for structured resume analysis and candidate performance evaluation
+- Developed REST APIs using FastAPI with PostgreSQL and Redis for data management, caching, and token blacklisting
+- Integrated HeyGen LiveAvatar SDK for interactive voice-based interviews
+- Deployed the frontend on Cloudflare Pages and backend on Render
+- **Best Academic Project Award** and research paper accepted at ICETCISM 2026
+
+**Tech Stack:** Python, FastAPI, React, Vite, PostgreSQL, SQLModel, Redis, Groq API
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🧩 BackX
