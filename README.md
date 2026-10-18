@@ -108,6 +108,8 @@
 
 ---
 
+<!---
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=SuryaPugazh&theme=dark" />
@@ -118,6 +120,8 @@
 <p align="center">
   <img src="https://helio-github-stats.vercel.app/api/top-langs?username=SuryaPugazh&theme=dark" />
 </p>
+
+--->
 
 <!---
 suryapugazh/suryapugazh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
